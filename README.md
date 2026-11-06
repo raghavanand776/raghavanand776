@@ -11,8 +11,8 @@ Started as a software engineer; now building hands-on with **agentic AI**.
 ### Featured projects
 | Project | What it does |
 |---|---|
-| [recon-data-generator](https://github.com/raghavanand776/recon-data-generator) | Synthetic ledger, processor and bank data with injected breaks and an answer key |
-| [claim-precheck-agent](https://github.com/raghavanand776/claim-precheck-agent) | Claim pre-check agent + Rx adjudication API |
+ | [claim-precheck-agent](https://github.com/raghavanand776/claim-precheck-agent) | Claim pre-check agent + Rx adjudication API |
+   | [recon-data-generator](https://github.com/raghavanand776/recon-data-generator) | Synthetic ledger, ... |
 | [tool-use-agent](https://github.com/raghavanand776/tool-use-agent) | Claude agent that calls Python tools |
 | [text-summarizer-cli](https://github.com/raghavanand776/text-summarizer-cli) | Command-line summarizer using the Claude API |
 
