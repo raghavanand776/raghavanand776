@@ -1,5 +1,5 @@
 # Hi, I'm Raghav Anand 👋
-Technical product builder in Seattle. 15+ years across
+Technical product leader in Seattle. 15+ years across
 **fintech, logistics, cloud and retail**: Costco, Dave, Flexport, Oracle, Nordstrom, Walgreens.
 Started as a software engineer; now building hands-on with **agentic AI**.
 
